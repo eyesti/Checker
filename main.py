@@ -1,4 +1,4 @@
-rt os
+import os
 import requests
 import re
 import time
